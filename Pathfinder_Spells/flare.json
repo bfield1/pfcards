@@ -12,5 +12,6 @@
 	"save" : "Fort negates",
 	"sr" : "yes",
 	"source" : "PF Core",
-	"description" : "Light bursts in front of a single creature. That creature is dazzled for 1 min (unless passes Fort save). Sightless creatures and creatures already dazzled are unaffected."
+	"description" : "Light bursts in front of a single creature. That creature is dazzled for 1 min (unless passes Fort save). Sightless creatures and creatures already dazzled are unaffected.",
+	"copyright" : "Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Used under Open Game License v1.0a."
 }

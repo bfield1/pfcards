@@ -10,5 +10,6 @@
 	"other_requirements" : null,
 	"source" : "PF Core",
 	"description" : "Upon command, a flaming weapon is sheathed in fire that deals an extra 1d6 points of fire damage on a successful hit. The fire does not harm the wielder. The effect remains until another command is given.",
-	"short_description" : null
+	"short_description" : null,
+	"copyright" : "Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Used under Open Game License v1.0a."
 }

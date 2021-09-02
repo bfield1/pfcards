@@ -12,5 +12,6 @@
 	"save" : "none",
 	"sr" : "no",
 	"source" : "PF Core",
-	"description" : "Object glows like a torch from point touched. Sheds normal light for 20ft, and increases light level by one step for further 20ft (up to normal).\\\\Can only have one Light spell active at a time. Can counter or dispel darkness spells of equal or lower level."
+	"description" : "Object glows like a torch from point touched. Sheds normal light for 20ft, and increases light level by one step for further 20ft (up to normal).\\\\Can only have one Light spell active at a time. Can counter or dispel darkness spells of equal or lower level.",
+	"copyright" : "Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Used under Open Game License v1.0a."
 }

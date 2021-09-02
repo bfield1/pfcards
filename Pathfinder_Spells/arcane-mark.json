@@ -12,5 +12,6 @@
 	"save" : "none",
 	"sr" : "no",
 	"source" : "PF Core",
-	"description" : "Inscribe your personal rune or mark, which consists of no more than 6 characters. Writing may be visible or invisible. May write on any substance without damaging it. \\textit{Detect magic, see invisibility, true seeing, read magic}, a \\textit{gem of seeing} or a \\textit{robe of eyes} allows an invisible mark to be seen. Mark cannot be dispelled, but it can be removed by the caster or by an \\textit{erase} spell. If placed on a living being, the mark gradually fades in about a month."
+	"description" : "Inscribe your personal rune or mark, which consists of no more than 6 characters. Writing may be visible or invisible. May write on any substance without damaging it. \\textit{Detect magic, see invisibility, true seeing, read magic}, a \\textit{gem of seeing} or a \\textit{robe of eyes} allows an invisible mark to be seen. Mark cannot be dispelled, but it can be removed by the caster or by an \\textit{erase} spell. If placed on a living being, the mark gradually fades in about a month.",
+	"copyright" : "Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Used under Open Game License v1.0a."
 }

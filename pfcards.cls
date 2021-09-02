@@ -1,3 +1,4 @@
+% Copyright (c) 2021 Bernard Field, GNU GPL-v3.0
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{pfcards}[2021/07/11 Pathfinder TTRPG Reference Cards]
 

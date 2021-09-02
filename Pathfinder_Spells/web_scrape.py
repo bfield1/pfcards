@@ -3,6 +3,8 @@
 """
 Scrapes spell data from a given Archives of Nethys url.
 Saves it as a json file for my TeX spellcards.
+
+Copyright (c) 2021 Bernard Field, GNU GPL-v3.0
 """
 
 from urllib.request import urlopen
