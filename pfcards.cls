@@ -10,9 +10,9 @@
 \setlength{\parindent}{0pt}
 
 % Commands for setting the directories in which the JSON files live.
-\newcommand{\spelldir}{/}
+\newcommand{\spelldir}{./}
 \newcommand{\setspelldir}[1]{\renewcommand{\spelldir}{#1}}
-\newcommand{\itemdir}{/}
+\newcommand{\itemdir}{./}
 \newcommand{\setitemdir}[1]{\renewcommand{\itemdir}{#1}}
 
 % For debugging Lua code.
