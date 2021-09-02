@@ -101,6 +101,41 @@ This generates a spell card from a JSON file.
 ```
 This generates a magic item card from a JSON file.
 
+The JSON file for spells contains an object with the following name/value pairs:
+
+- name : string (spell name)
+- school : string (school of magic)
+- level : string (spell level(s))
+- time : string or int (casting time)
+- components : string (components to cast the spell)
+- range : string (range of the spell)
+- area : string or null
+- target : string or null
+- effect : string or null (should have one of area, target, or effect. If multiple
+	provided, prints one of them. I may change this in future.)
+- duration : string (spell duration)
+- save : string (whether the spell allows a saving throw)
+- sr : string (whether the spell allows Spell Resistance)
+- description : string (body text, spell description)
+- source : string (abbreviated source reference)
+
+The JSON file for items contains an object with the following name/value pairs:
+- name : string (item name)
+- aura : string (school of magic and strength of item aura)
+- cl : string or int (caster level of item)
+- slot : string (magic item slot)
+- price : string (price of magic item)
+- weight : string (weight of magic item)
+- description : string (body text, item description)
+- source : string (abbreviated source reference)
+- spells : string or null (spells requires to craft the item)
+- feat : string or null (feats requires to craft the item)
+- other_requirements : string or null (other requirements for crafting the
+	item. Expect at least one of these three to be non-null.)
+
+Strings should be LaTeX-compatible. Backslashes need to be escaped with
+another backslash.
+
 The document fits two rows of four cards per page. For optimal formatting,
 place each fromjson command on a separate line, but do not include any blank
 lines between them (except optionally where there would be a linebreak).
