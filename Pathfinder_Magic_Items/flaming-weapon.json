@@ -1,0 +1,14 @@
+{
+	"name" : "Flaming Weapon",
+	"aura" : "moderate evocation",
+	"cl" : "10",
+	"slot" : "weapon quality",
+	"price" : "+1 bonus",
+	"weight" : "--",
+	"feat" : "Craft Magic Arms and Armor",
+	"spells" : "fireball, flame blade, {\\normalfont{}or} flame strike",
+	"other_requirements" : null,
+	"source" : "PF Core",
+	"description" : "Upon command, a flaming weapon is sheathed in fire that deals an extra 1d6 points of fire damage on a successful hit. The fire does not harm the wielder. The effect remains until another command is given.",
+	"short_description" : null
+}

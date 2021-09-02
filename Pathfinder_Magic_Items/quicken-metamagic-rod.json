@@ -1,0 +1,14 @@
+{
+	"name" : "Quicken Metamagic Rod",
+	"aura" : "strong (no school)",
+	"cl" : "17",
+	"slot" : "--",
+	"price" : "75,500gp",
+	"weight" : "5lb",
+	"feat" : "Craft Rod, Quicken Spell",
+	"spells" : null,
+	"other_requirements" : null,
+	"source" : "PF Ult Equip",
+	"description" : "Use-activated. 3/day, cast a spell that is quickened as though using the Quicken Spell feat (casting time is swift action if 1 round or less, does not provoke AoO). Does not increase spell level. Can only be used on spells of 6th level or lower. May only use one metamagic rod per spell. Doesn't apply to spell-like abilities.",
+	"short_description" : null
+}

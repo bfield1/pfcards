@@ -1,0 +1,16 @@
+{
+	"name" : "Flare",
+	"school" : "evocation[light]",
+	"level" : 0,
+	"time" : "1 standard action",
+	"components" : "V",
+	"range" : "close",
+	"area" : null,
+	"target" : null,
+	"effect" : "burst of light",
+	"duration" : "instantaneous",
+	"save" : "Fort negates",
+	"sr" : "yes",
+	"source" : "PF Core",
+	"description" : "Light bursts in front of a single creature. That creature is dazzled for 1 min (unless passes Fort save). Sightless creatures and creatures already dazzled are unaffected."
+}

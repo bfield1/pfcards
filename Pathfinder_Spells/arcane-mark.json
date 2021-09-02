@@ -1,0 +1,16 @@
+{
+	"name" : "Arcane Mark",
+	"school" : "universal",
+	"level" : "0",
+	"time" : "1 standard action",
+	"components" : "V,S",
+	"range" : "touch",
+	"area" : null,
+	"target" : null,
+	"effect" : "one personal rune or mark, which fits within 1sq.ft",
+	"duration" : "permanent",
+	"save" : "none",
+	"sr" : "no",
+	"source" : "PF Core",
+	"description" : "Inscribe your personal rune or mark, which consists of no more than 6 characters. Writing may be visible or invisible. May write on any substance without damaging it. \\textit{Detect magic, see invisibility, true seeing, read magic}, a \\textit{gem of seeing} or a \\textit{robe of eyes} allows an invisible mark to be seen. Mark cannot be dispelled, but it can be removed by the caster or by an \\textit{erase} spell. If placed on a living being, the mark gradually fades in about a month."
+}

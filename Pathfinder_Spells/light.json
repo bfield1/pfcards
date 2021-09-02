@@ -1,0 +1,16 @@
+{
+	"name" : "Light",
+	"school" : "evocation[light]",
+	"level" : 0,
+	"time" : "1 standard action",
+	"components" : "V,M/DF(a firefly)",
+	"range" : "touch",
+	"area" : null,
+	"target" : "object touched",
+	"effect" : null,
+	"duration" : "10 min/lvl",
+	"save" : "none",
+	"sr" : "no",
+	"source" : "PF Core",
+	"description" : "Object glows like a torch from point touched. Sheds normal light for 20ft, and increases light level by one step for further 20ft (up to normal).\\\\Can only have one Light spell active at a time. Can counter or dispel darkness spells of equal or lower level."
+}
